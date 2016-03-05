@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./weberdebeaufort34blee_0267.png"; bbox 0 0 2351 3006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 783 862 1355 910">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 783 862 1355 910">
+     <span class='ocr_line' id='line_1_1' title="bbox 783 862 1355 910; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 783 866 813 910; x_wconf 66' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_2' title='bbox 873 864 911 910; x_wconf 59' lang='grc' dir='ltr'>Μ</span> <span class='ocrx_word' id='word_1_3' title='bbox 970 865 999 910; x_wconf 65' lang='lat' dir='ltr'>ss</span> <span class='ocrx_word' id='word_1_4' title='bbox 1059 864 1092 909; x_wconf 69' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_5' title='bbox 1150 863 1180 909; x_wconf 77' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1240 862 1269 908; x_wconf 84' lang='lat' dir='ltr'><strong>G</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1326 863 1355 908; x_wconf 76' lang='lat' dir='ltr'>E</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 920 1006 1216 1024">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 920 1006 1216 1024">
+     <span class='ocr_line' id='line_1_2' title="bbox 920 1006 1216 1024; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 920 1007 969 1024; x_wconf 73' lang='lat' dir='ltr'><strong>TQT</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 991 1007 1026 1023; x_wconf 77' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1046 1006 1142 1023; x_wconf 66' lang='lat' dir='ltr'>KENNJS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1163 1006 1216 1022; x_wconf 78' lang='lat' dir='ltr'><strong>DER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 227 1107 1892 1461">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 227 1107 1892 1461">
+     <span class='ocr_line' id='line_1_3' title="bbox 227 1107 1892 1202; baseline -0.005 0"><span class='ocrx_word' id='word_1_12' title='bbox 227 1107 1892 1202; x_wconf 60' lang='lat' dir='ltr'><strong>PLEURQNEGTEQ‘NJEN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 483 1407 1655 1461; baseline -0.005 -3"><span class='ocrx_word' id='word_1_13' title='bbox 483 1409 1248 1458; x_wconf 73' lang='lat' dir='ltr'>SOENDA-MOLUKSCHEN</span> <span class='ocrx_word' id='word_1_14' title='bbox 1295 1407 1655 1461; x_wconf 45' lang='lat' dir='ltr'><strong>ARGHHPEQ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 787 1662 1343 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 787 1662 1343 1694">
+     <span class='ocr_line' id='line_1_5' title="bbox 787 1662 1343 1694; baseline -0.002 -1"><span class='ocrx_word' id='word_1_15' title='bbox 787 1663 862 1694; x_wconf 60' lang='lat' dir='ltr'><strong>Du·-</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 900 1663 949 1694; x_wconf 82' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 987 1662 1343 1694; x_wconf 51' lang='grc' dir='ltr'><strong>ΒΙΙΛΕῙΕῘΚΕΒ,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

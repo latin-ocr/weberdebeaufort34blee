@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./weberdebeaufort34blee_0307.png"; bbox 0 0 2351 3006; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 860 856 1351 904">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 860 856 1351 904">
+     <span class='ocr_line' id='line_1_1' title="bbox 860 856 1351 904; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 860 859 892 904; x_wconf 91' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_2' title='bbox 937 858 1129 904; x_wconf 76' lang='lat' dir='ltr'>ul)R</span> <span class='ocrx_word' id='word_1_3' title='bbox 1174 856 1351 903; x_wconf 79' lang='lat' dir='ltr'><strong>A(}E</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 307 1122 1907 1200">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 307 1122 1907 1200">
+     <span class='ocr_line' id='line_1_2' title="bbox 307 1122 1907 1200; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 307 1126 1217 1200; x_wconf 70' lang='lat' dir='ltr'><strong>BLOOTKAKIGE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1282 1122 1907 1195; x_wconf 76' lang='lat' dir='ltr'>vlSSOflEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 494 1425 1728 1484">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 494 1425 1728 1484">
+     <span class='ocr_line' id='line_1_3' title="bbox 494 1425 1728 1484; baseline -0.005 -9"><span class='ocrx_word' id='word_1_6' title='bbox 494 1426 1293 1475; x_wconf 78' lang='lat' dir='ltr'><strong>SOENnA-MOLUKSGHEN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1339 1425 1728 1484; x_wconf 41' lang='lat' dir='ltr'><strong>ARCHIPELffi</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 686 1568 1586 1598">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 686 1568 1586 1598">
+     <span class='ocr_line' id='line_1_4' title="bbox 686 1568 1586 1598; baseline -0.004 -1"><span class='ocrx_word' id='word_1_8' title='bbox 686 1573 707 1597; x_wconf 92' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_9' title='bbox 727 1572 989 1598; x_wconf 74' lang='lat' dir='ltr'>BESCHRIJVING</span> <span class='ocrx_word' id='word_1_10' title='bbox 1009 1572 1087 1597; x_wconf 79' lang='lat' dir='ltr'><strong>VAN</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1105 1570 1239 1596; x_wconf 72' lang='lat' dir='ltr'>EENIGE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1259 1569 1404 1595; x_wconf 78' lang='lat' dir='ltr'><strong>NOEUWE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1423 1568 1586 1594; x_wconf 75' lang='lat' dir='ltr'>SOORTEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 817 1815 1399 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 817 1815 1399 1848">
+     <span class='ocr_line' id='line_1_5' title="bbox 817 1815 1399 1848; baseline -0.003 -1"><span class='ocrx_word' id='word_1_14' title='bbox 817 1817 890 1847; x_wconf 64' lang='grc' dir='ltr'><strong>ΒΡ.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 932 1816 981 1847; x_wconf 82' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1023 1815 1399 1848; x_wconf 60' lang='lat' dir='ltr'>BLEEKER</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
